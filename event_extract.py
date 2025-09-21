@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 
 BASE_URL = "https://xn--gck1f423k.xn--1bvt37a.tools/supports/{}/event"
-CARD_IDS = [30055,30056]  # Example IDs
+CARD_IDS = [30055,30056, 30057]  # Example IDs
 
 TARGET_STATS = ["スピード", "スタミナ", "パワー", "根性", "賢さ", "体力", "スキルPt", "絆"]
 
